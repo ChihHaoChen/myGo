@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "name": "myGo",
+  "version": "1.0.0",
+  "main": "answer.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^26.1.0"
+  }
+}
